@@ -23,3 +23,13 @@ git push
     requirements.txt
 7. Git push initial changes to GitHub
 ```
+
+##  How to Install and Run the Project
+```
+Option 1. Separately. Install packages separately
+Option 2. One Line. Install packages on one line
+Option 3. File Based. Install packages using requirements.txt
+```
+``` 
+Using option 3 to install dependencies
+```
